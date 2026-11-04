@@ -78,7 +78,7 @@ It helped me understand the importance of data quality, structured data pipeline
 
 The final result is a PostgreSQL Data Warehouse that integrates CRM and ERP data into a structured model suitable for further analysis and reporting.
 
-**Next step:** Perform Exploratory Data Analysis (EDA) using the data prepared in this project. For this purpose i created separated [README](eda/README.md) file for EDA, it is located in [`eda/`](eda/) directory.
+**Next step:** Perform Exploratory Data Analysis (EDA) using the data prepared in this project. For this purpose i created separated [README](data_analysis/README.md) file for EDA, it is located in [`data_analysis/`](data_analysis/) directory.
 
 ## Project Documentation
 
