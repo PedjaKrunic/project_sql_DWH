@@ -8,7 +8,7 @@ The goal is to explore the dataset, identify key business metrics, understand da
 
 ## Analysis Steps
 
-The EDA process is organized into six main steps:
+The EDA process is organized into 13 steps:
 
 1. **[Database Exploration](1_db_structure_exploration.sql):** Explore the database structure, schemas, tables, and columns to understand the available data.
 2. **[Dimension Exploration](2_dimension_exploration.sql):** Identify unique values and explore the different categories, countries, and products in the dimension tables.
